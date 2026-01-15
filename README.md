@@ -12,6 +12,7 @@ and version history tracking.
 
 Initial Repository Content:
 
-- README.md
+- README.md (main documentation)
 - Core application files
 - Configuration files
+- Feature-related files
