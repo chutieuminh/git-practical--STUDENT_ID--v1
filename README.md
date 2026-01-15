@@ -12,5 +12,5 @@ and version history tracking.
 
 Initial Repository Content:
 
-- README.md
-- Additional files will be added during development
+- README.md (main documentation)
+- Feature-related files
